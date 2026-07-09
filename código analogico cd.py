@@ -52,7 +52,7 @@ class SimuladorContextoRealUNEMI:
         header.pack(side=tk.TOP, fill=tk.X)
         tk.Label(header, text="UNIVERSIDAD ESTATAL DE MILAGRO", font=("Helvetica", 18, "bold"), bg="#003153", fg="#BED6E0").pack()
         tk.Label(header, text="FACULTAD DE CIENCIAS E INGENIERÍA - TECNOLOGÍAS DE LA INFORMACIÓN", font=("Helvetica", 12, "bold"), bg="#003153", fg="#3B8AB1").pack(pady=4)
-        tk.Label(header, text="MODALIDAD EN LÍNEA - GRUPO H", font=("Helvetica", 10, "italic", "bold"), bg="#003153", fg="#BED6E0").pack()
+        tk.Label(header, text="MODALIDAD EN LÍNEA - GRUPO D", font=("Helvetica", 10, "italic", "bold"), bg="#003153", fg="#BED6E0").pack()
 
         # 2. PIE DE PÁGINA (Fondo: Prussian Blue)
         footer = tk.Frame(root, bg="#003153", pady=15, padx=40)
